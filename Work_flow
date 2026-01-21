@@ -1,0 +1,29 @@
+CHARMIX/
+│
+├── main.py
+├── requirements.txt
+├── README.md
+
+├── ui/
+│   ├── landing.py
+│   ├── login_screen.py
+│   ├── signup_screen.py
+│   ├── change.py
+│   ├── home_screen.py
+│   ├── shop_screen.py
+│   ├── order_page.py
+│   ├── quesstionare.py
+│   ├── checkout.py
+│   ├── admin_orders_page.py
+│   ├── user_admin_page.py
+│   └── user_sessions_page.py
+
+
+
+├── assets/
+│   ├── images/
+│   │   ├── logo.png
+│   │   └── products/
+│   └── icons/
+
+
