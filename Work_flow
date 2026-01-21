@@ -4,7 +4,7 @@ CHARMIX/
 ├── requirements.txt
 ├── README.md
 
-├── ui/
+├── 
 │   ├── landing.py
 │   ├── login_screen.py
 │   ├── signup_screen.py
