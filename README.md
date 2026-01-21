@@ -13,3 +13,10 @@ CHARMIX is a full-stack desktop application that helps users discover beauty pro
 * Add to cart and checkout workflow
 * Order tracking and history
 * Admin mode - Inventory management, User access, Report generation and analytics.
+  
+**Technologies used**
+* **Python**
+* **Custom tkinter** - UI framework
+* **MySQL**- Database management
+
+
