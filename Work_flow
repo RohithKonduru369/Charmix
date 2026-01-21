@@ -12,7 +12,7 @@ CHARMIX/
 │   ├── home_screen.py
 │   ├── shop_screen.py
 │   ├── order_page.py
-│   ├── quesstionare.py
+│   ├── routine.py
 │   ├── checkout.py
 │   ├── admin_orders_page.py
 │   ├── user_admin_page.py
